@@ -1,0 +1,27 @@
+theme = "awesome-identity"
+
+baseURL = "https://example.com"
+title = "Matthew McNew"
+
+
+## Profile Configurations
+[params.profile]
+portrait = "/images/portrait-default.png"
+firstname = "Matthew"
+lastname = "McNew"
+title = "Software Engineer"
+bio = """
+  """
+
+[params.contacts]
+email = "me@mattmcnew"
+github = "matthewmcnew"
+twitter = "matthewmcnew"
+linkedin = "matthewmcnew"
+instagram = "matthewmcnew"
+dockerhub = "matthewmcnew"
+
+## Footer Configurations
+[params.footer]
+copyright = ""
+poweredBy = false
