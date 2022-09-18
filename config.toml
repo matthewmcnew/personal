@@ -2,6 +2,7 @@ theme = ["awesome-identity", "plausible-hugo"]  # Add this theme to your already
 [params.plausible]
 enable = true  # Whether to enable plausible tracking
 domain = "mattmcnew.com"
+outbound_link = true
 
 baseURL = "https://example.com"
 title = "Matthew McNew"
