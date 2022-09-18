@@ -1,4 +1,7 @@
-theme = "awesome-identity"
+theme = ["awesome-identity", "plausible-hugo"]  # Add this theme to your already existing other themes
+[params.plausible]
+enable = true  # Whether to enable plausible tracking
+domain = "mattmcnew.com"
 
 baseURL = "https://example.com"
 title = "Matthew McNew"
@@ -25,3 +28,4 @@ dockerhub = "matthewmcnew"
 [params.footer]
 copyright = ""
 poweredBy = false
+
