@@ -20,10 +20,6 @@ bio = """
 [params.contacts]
 email = "me@mattmcnew"
 github = "matthewmcnew"
-twitter = "matthewmcnew"
-linkedin = "matthewmcnew"
-instagram = "matthewmcnew"
-dockerhub = "matthewmcnew"
 
 ## Footer Configurations
 [params.footer]
